@@ -1,4 +1,3 @@
 # CA-2
 
-ok 
-ok
+Little project of sentiment analysis, prediction? , comparison of Ireland and other countries on housing topic
