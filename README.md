@@ -9,3 +9,6 @@ In order to follow the paper please run the code files in this order:
 2 - CLASSIFICATION
 
 3 - TIME SERIES
+
+
+THANKS
